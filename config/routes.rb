@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  resources :images
+  resources :images
+  resources :images
+  resources :images
+  resources :images
   root 'static_pages#home'
 
   devise_for :users
