@@ -26,6 +26,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 source 'https://rubygems.org'
 
 gem 'devise'
+gem 'carrierwave'
 
 
 # Use ActiveModel has_secure_password
